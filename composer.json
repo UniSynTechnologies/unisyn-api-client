@@ -1,0 +1,17 @@
+{
+
+        "name": "unisyn-api-client",
+        "description": "Client API for the UniSyn data system.",
+        "authors": [
+            {
+                    "name": "UniSyn",
+                    "email": "webmaster@unisyntechnologies.com"
+            }
+        ],
+        "minimum-stability": "dev",
+        "type": "package",
+        "require": {
+            "composer/installers": "*",
+            "php": ">=7.0.0"
+        }
+}
